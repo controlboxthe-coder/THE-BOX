@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of THE BOX – Gestão Financeira",
+  "description": "A comprehensive financial management SPA featuring transaction tracking, recurring expenses, categorization, cloud sync, and a voice-activated AI assistant powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
